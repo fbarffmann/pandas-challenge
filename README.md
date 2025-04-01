@@ -43,14 +43,25 @@ The data comes from two CSV files:
 git clone https://github.com/fbarffmann/pandas-challenge.git
 ```
 
-2. Open the Jupyter Notebook:
+2. Navigate to the PyCitySchools directory:
 
 ```
 cd pandas-challenge/PyCitySchools
-jupyter notebook PyCitySchools.ipynb
 ```
 
-3. Run all cells to execute the analysis.
+3. Install pandas and jupyter libraries if need be:
+
+```
+pip install pandas jupyter
+```
+
+4. Launch the Jupyter Notebook:
+
+```
+jupyter notebook Analysis.ipynb
+```
+
+5. Run all cells to execute the full school budget and performance analysis.
 
 ---
 
