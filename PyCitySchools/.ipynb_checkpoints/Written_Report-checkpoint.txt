@@ -1,0 +1,19 @@
+Summary of Analysis:
+We analyzed 15 schools that have a combined number of 39170 students for one school year. We're mostly focused on students' academic success (overall passing rate of both math and reading). We categorized our schools by budget, size, and type of each school. We also categorized our students by grade.
+
+Across all schools, 65% of students passed both math and reading. The pass rates by school ranged from 53-91%.
+
+The student's grade level does not seem to be related to their academic performance.
+
+The lowest spend per capita was $578, while the highest was $655--a 13% increase.
+
+
+
+Conclusions:
+When you consider the overall passing % of schools grouped by spending per capita, there is a negative relationship between schools spending per capita and a student's probability of passing. Schools that spent the most on their students average a 53.5% chance of passing overall, whereas schools that spent the least on their students average a 90.4% passing rate. This defies reason, and we expect that students' success rates are affected by more than just spend per capita.
+
+It appears that the largest schools have the worst pass rates. Schools we defined as medium or small both had a ~90% pass rate, whereas large schools had a 58.3% pass rate. We noticed that all of the district schools were categorized as large, while the charter schools were categorized as small or medium (with one exception).
+
+The final category we considered was school type (district vs. charter). We found that this variable was the most influential in determining students' passing rates. Charter schools had an overall passing rate of 90.4%, whereas district schools had an overall passing rate of 53.7%.
+
+As previously noted, the district vs. charter comparison also explained the gaps between small, medium, and large school performances. We looked back at the spend per capita category, and noticed all of the schools that we categorized as the lowest spending are all charter schools. Whereas all of the schools that we categorized as the highest spending are all district schools. We can therefore conclude that the amount spending per capita is not nearly as influential as whether or not that student was attending a charter school.
